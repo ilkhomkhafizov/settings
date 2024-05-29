@@ -53,7 +53,7 @@ sudo systemctl status docker
 ## Docker-compose
 Мы проверим [текущую версию] текущую версию и при необходимости обновим ее с помощью следующей команды:
 ```sh
-sudo curl -L https://github.com/docker/compose/releases/download/v2.24.7/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+sudo curl -L https://github.com/docker/compose/releases/download/v2.27.1/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
 ```
 [текущую версию]: <https://github.com/docker/compose/releases>
 
